@@ -1,3 +1,3 @@
 Link para visualização
 
-https://taynansiqueira.github.io/portfolio-taynan/
+https://portfolio-taynan-2yx3.vercel.app/
